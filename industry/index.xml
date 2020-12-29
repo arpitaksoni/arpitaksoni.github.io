@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industries on Arpita K SONI</title>
+    <link>https://arpitaksoni.github.io/industry/</link>
+    <description>Recent content in Industries on Arpita K SONI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://arpitaksoni.github.io/industry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GCP Audit</title>
+      <link>https://arpitaksoni.github.io/industry/gcp-audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaksoni.github.io/industry/gcp-audit/</guid>
+      <description>Stay Tuned. Updates coming soon </description>
+    </item>
+    
+    <item>
+      <title>GCP Training</title>
+      <link>https://arpitaksoni.github.io/industry/gcp-training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaksoni.github.io/industry/gcp-training/</guid>
+      <description>Stay Tuned. More updates Coming Soon. </description>
+    </item>
+    
+    <item>
+      <title>Talent Acquisition</title>
+      <link>https://arpitaksoni.github.io/industry/talent-acquisition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaksoni.github.io/industry/talent-acquisition/</guid>
+      <description>Stay Tuned. More updates Coming Soon. </description>
+    </item>
+    
+  </channel>
+</rss>
